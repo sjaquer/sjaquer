@@ -63,6 +63,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sjaquer/sjaquer/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sjaquer/sjaquer/workflows/snake.svg" alt="Snake animation" />
 
 ###
