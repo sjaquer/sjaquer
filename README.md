@@ -13,11 +13,13 @@
 
 <br clear="both">
 
-<img align="left" height="120" src="https://avatars.githubusercontent.com/u/72231436?v=4"  />
+<div align="center">
+  <img height="120" src="https://avatars.githubusercontent.com/u/72231436?v=4"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
@@ -47,7 +49,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@sjaquer" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="25" alt="youtube logo"  />
   </a>
@@ -63,6 +65,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sjaquer/sjaquer/workflows/snake.svg" alt="Snake animation" />
+<img src="/workflows/snake.svg" alt="Snake animation" />
 
 ###
